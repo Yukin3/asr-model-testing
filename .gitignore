@@ -3,3 +3,5 @@
 models/
 __pycache__/
 .ipynb_checkpoints/
+audio_samples/*
+notebooks/anaconda_projects/db/project_filebrowser.db
