@@ -1,0 +1,41 @@
+Model,Audio File,Transcription,Confidence,Runtime (sec),Timestamp
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_1.wav,قُلْ هُوَ اللَه وَأَحَادًاً,,3.12,2025-03-02 17:17:22
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_2.wav,اللهو الصمادة,,0.31,2025-03-02 17:17:22
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_3.wav,لم يا لينتاوع الأم يولادب,,0.29,2025-03-02 17:17:22
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_4.wav,وَلَمْ يَكُونْ إِلَاى هُوَنكُوفُ وَدْنَ أَحَاندًا,,0.38,2025-03-02 17:17:23
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_1.wav,qulo huwa All~ahu >aHaAdu,,14.78,2025-03-02 17:17:38
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_2.wav,Alh AlSAmd,,15.59,2025-03-02 17:17:54
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_3.wav,lamo yariDaA walamo yuwladab,,14.86,2025-03-02 17:18:09
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_112_4.wav,walamo yakuni lahu kuwfa waEDi | HaAdaA,,12.73,2025-03-02 17:18:22
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_112_1.wav,qulo huwa All~ahu >aHadN,,5.12,2025-03-02 17:18:38
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_112_2.wav,All~ahu AlS~amada,,2.09,2025-03-02 17:18:40
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_112_3.wav,lamo yalida walamo yuwlado,,0.52,2025-03-02 17:18:40
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_112_4.wav,walamo yakun l~ahu kufuwFA >aHadK,,0.48,2025-03-02 17:18:41
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_112_1.wav,قُلْ ھُ وَلْ لَاْ ھُ ءَ حَدْ,,5.34,2025-03-02 17:18:54
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_112_2.wav,ءَلْ لَاْ ھُصْ صَ مَدْ,,2.13,2025-03-02 17:18:56
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_112_3.wav,لَمْ يَ لِدْ وَ لَمْ يُوْ لَدْ,,0.49,2025-03-02 17:18:57
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_112_4.wav,وَ لَمْ يَ كُلْ لَ ھُ كُ فُ وَنْ ءَ حَدْ,,0.52,2025-03-02 17:18:57
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_112_1.wav,ولوهولله أحاد,,3.17,2025-03-02 17:19:01
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_112_2.wav,أرل عنه صاماد,,1.43,2025-03-02 17:19:03
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_112_3.wav,لم يرد ولم يولاد,,0.42,2025-03-02 17:19:03
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_112_4.wav,ولم يأكل إل ه ن كنف ول آحاند,,0.45,2025-03-02 17:19:04
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_112_1.wav, قل هو الله أحدا,,125.45,2025-03-02 17:21:24
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_112_2.wav, الله صمد,,101.46,2025-03-02 17:23:06
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_112_3.wav, لم يلد ولم يولد,,74.76,2025-03-02 17:24:20
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_112_4.wav, ولم يكن له كفوا أحدا,,69.85,2025-03-02 17:25:30
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_112_1.wav, قل هو الله أحد,,4.28,2025-03-02 17:25:37
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_112_2.wav, الله صمد,,2.48,2025-03-02 17:25:39
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_112_3.wav, لم يلد ولم يولد,,2.66,2025-03-02 17:25:42
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_112_4.wav, ولم يكل له كفوة أحد,,3.12,2025-03-02 17:25:45
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_112_1.wav,قُلْ هُوَ اللَّهُ أَحَدٌ,,3.31,2025-03-02 17:25:50
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_112_2.wav,اللَّهُ الصَّمَدُ,,1.64,2025-03-02 17:25:51
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_112_3.wav,لَمْ يَلِدَ وَلَمْ يُولَدَ,,1.92,2025-03-02 17:25:53
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_112_4.wav,وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ,,2.13,2025-03-02 17:25:55
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_112_1.wav,قُلْ هُوَ اللَّهُ أَحَدٌ,,2.4,2025-03-02 17:25:59
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_112_2.wav,اللَّهُ الصَّمَدُ,,1.2,2025-03-02 17:26:00
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_112_3.wav,لَمْ يَلِدْ وَلَمْ يُولَدْ,,1.74,2025-03-02 17:26:02
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_112_4.wav,وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ,,2.14,2025-03-02 17:26:04
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_112_1.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.1,2025-03-02 17:26:06
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_112_2.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.09,2025-03-02 17:26:06
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_112_3.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.11,2025-03-02 17:26:06
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_112_4.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.14,2025-03-02 17:26:06

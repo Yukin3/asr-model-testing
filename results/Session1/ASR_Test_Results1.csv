@@ -1,0 +1,61 @@
+Model,Audio File,Transcription,Confidence,Runtime (sec),Timestamp
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_1.wav,بِسْمِ اللَهِ الرَّحْمَنِ الرّحِيمِ,,3.46,2025-03-02 16:54:37
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_2.wav,الحمدري له رب لعالمٍ,,2.24,2025-03-02 16:54:39
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_3.wav,الرَّحْمَن عَنِ الرَّحِيم,,2.16,2025-03-02 16:54:41
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_4.wav,مالك يوم الدي,,1.26,2025-03-02 16:54:42
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_5.wav,إيا كن اعبد وإيا كان استعي,,1.04,2025-03-02 16:54:43
+jonatasgrosman/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dossari_1_6.wav,إهدِينَا الصِرَا - قَلْمُسْتَقِيمَ,,0.37,2025-03-02 16:54:44
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_1.wav,bisomi All~ahi Alr~aHomani Alr~aHiymi,,14.52,2025-03-02 16:55:00
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_2.wav,AlHmd ryl ll h rmDyn AlEAlam,,11.01,2025-03-02 16:55:11
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_3.wav,Alr~aHomani Alr~aHiy,,14.12,2025-03-02 16:55:25
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_4.wav,mElk ywm AlDy,,13.02,2025-03-02 16:55:38
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dosari_1_5.wav,wy~aA kaAna Eobudu wa<iy~aA kaAna AsotaAEiy,,14.04,2025-03-02 16:55:52
+elgeish/wav2vec2-large-xlsr-53-arabic,../audio_samples/Yasser_Al-Dossari_1_6.wav,AhodinaA AlS~iraA qaliylomuzotanoqiyma,,10.24,2025-03-02 16:56:02
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_1_1.wav,bisomi All~a`hi Alr~aHoma`ni Alr~aHiymi,,6.75,2025-03-02 16:56:10
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_1_2.wav,AloHamodu lil~ahi rab~i AloEaAlamiyna,,4.77,2025-03-02 16:56:15
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_1_3.wav,Alr~aHomali Alr~aHiymm,,1.76,2025-03-02 16:56:16
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_1_4.wav,maAliki yawomi Ald~iyni,,0.65,2025-03-02 16:56:17
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dosari_1_5.wav,y~aA kanaEobudu wa<il~aA` kanasotaEiyna,,0.76,2025-03-02 16:56:18
+Nuwaisir/Quran_speech_recognizer,../audio_samples/Yasser_Al-Dossari_1_6.wav,AhodinaA AlS~iraATa Alomusotaqiyma,,0.33,2025-03-02 16:56:18
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_1_1.wav,بِسْ مِلْ لَاْ ھِرْ رَحْ مَاْ نِرْ رَ حِيْمْ,,4.99,2025-03-02 16:56:36
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_1_2.wav,ءَلْ حَمْ دُ لِلْ لَاْ ھِ رَبْ بِلْ عَ لَ مِيْنْ,,3.96,2025-03-02 16:56:40
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_1_3.wav,ءَرْ رَحْ مَاْ نِرْ رَ حِيْمْ,,1.39,2025-03-02 16:56:42
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_1_4.wav,مَ لِ كِ يَوْ مِدْ دِيْنْ,,0.84,2025-03-02 16:56:42
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dosari_1_5.wav,ءِيْ يَاْ كَ نَعْ بُ دُ وَ ءِيْ يَاْ كَ نَسْ تَ عِيْنْ,,0.89,2025-03-02 16:56:43
+IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,../audio_samples/Yasser_Al-Dossari_1_6.wav,ءِهْ دِ نَصْ صِ رَاْ طَلْ مُسْ تَ قِيْمْ,,0.35,2025-03-02 16:56:44
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_1_1.wav,بسم الله الرحم الرحيم,,3.25,2025-03-02 16:56:48
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_1_2.wav,الحمدرين إله ربن لعلم,,1.7,2025-03-02 16:56:50
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_1_3.wav,الرحمن الرحي,,0.96,2025-03-02 16:56:51
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_1_4.wav,مارك يوم الد,,0.71,2025-03-02 16:56:51
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dosari_1_5.wav,ا كا نعبد وإا كان ستع,,0.76,2025-03-02 16:56:52
+mohammed/arabic-speech-recognition,../audio_samples/Yasser_Al-Dossari_1_6.wav,إهدنا الصرات المستقيم,,0.41,2025-03-02 16:56:53
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_1_1.wav, بسم الله الرحمن الرحيم,,81.96,2025-03-02 16:58:31
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_1_2.wav, الحمد لله رب العالمين,,243.41,2025-03-02 17:02:35
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_1_3.wav, الرحمن الرحيم,,210.76,2025-03-02 17:06:05
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_1_4.wav, مالك يوم الدين,,133.37,2025-03-02 17:08:19
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dosari_1_5.wav, إياك نعبد وإياك نستعين,,241.53,2025-03-02 17:12:20
+openai/whisper-large-v3,../audio_samples/Yasser_Al-Dossari_1_6.wav, اهدنا الصراط المستقيما,,89.41,2025-03-02 17:13:50
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_1_1.wav, بسم الله الرحمن الرحيم,,5.4,2025-03-02 17:13:57
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_1_2.wav, الحمد لله رب العالمين,,2.74,2025-03-02 17:14:00
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_1_3.wav, 2. الرحمن الرحيم,,2.73,2025-03-02 17:14:02
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_1_4.wav, مارك يوم الدين,,2.76,2025-03-02 17:14:05
+openai/whisper-small,../audio_samples/Yasser_Al-Dosari_1_5.wav, إياك نعبد وإياك نستعين,,3.0,2025-03-02 17:14:08
+openai/whisper-small,../audio_samples/Yasser_Al-Dossari_1_6.wav, إهدن الصراط المستقيم,,2.79,2025-03-02 17:14:11
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_1_1.wav,بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ,,3.6,2025-03-02 17:14:16
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_1_2.wav,الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ,,2.19,2025-03-02 17:14:18
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_1_3.wav,الرَّحْمَٰنِ الرَّحِيمِ,,1.9,2025-03-02 17:14:20
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_1_4.wav,مَالِكِ يَوْمِ الدِّينِ,,1.79,2025-03-02 17:14:22
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dosari_1_5.wav,يَاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ,,2.34,2025-03-02 17:14:24
+areaz/whisper-small-for-quran,../audio_samples/Yasser_Al-Dossari_1_6.wav,اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ,,2.16,2025-03-02 17:14:26
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_1_1.wav,بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ,,3.69,2025-03-02 17:14:31
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_1_2.wav,الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ,,2.27,2025-03-02 17:14:33
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_1_3.wav,الرَّحْمَنِ الرَّحِيمِ,,1.39,2025-03-02 17:14:35
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_1_4.wav,مَالِكِ يَوْمِ الدِّينِ,,1.52,2025-03-02 17:14:36
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dosari_1_5.wav,إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ,,2.63,2025-03-02 17:14:39
+tarteel-ai/whisper-base-ar-quran,../audio_samples/Yasser_Al-Dossari_1_6.wav,اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ,,1.84,2025-03-02 17:14:41
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_1_1.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.13,2025-03-02 17:14:43
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_1_2.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.22,2025-03-02 17:14:43
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_1_3.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.27,2025-03-02 17:14:44
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_1_4.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.27,2025-03-02 17:14:44
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dosari_1_5.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.29,2025-03-02 17:14:44
+cherifkhalifah/quran-recitation-errors-test,../audio_samples/Yasser_Al-Dossari_1_6.wav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,0.13,2025-03-02 17:14:44
